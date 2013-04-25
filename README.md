@@ -1,0 +1,4 @@
+RsBot
+=====
+
+Scripts for rsbot
